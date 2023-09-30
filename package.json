@@ -1,0 +1,27 @@
+{
+  "name": "dapper",
+  "version": "0.0.1",
+  "description": "Bot para grupos de Whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zXRickX/Dapper.git"
+  },
+  "dependencies": {
+  "@whiskeysockets/baileys": "^6.4.1",
+  "@adiwajshing/keyed-db": "^0.2.4",
+  "qrcode-terminal": "^0.12.0",
+  "pino": "^7.11.0",
+  "fs": "^0.0.1-security",
+  "axios": "^0.24.0"
+  },
+  "author": "Pomme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zXRickX/Dapper/issues"
+  },
+  "homepage": "https://github.com/zXRickX/Dapper#readme"
+}
